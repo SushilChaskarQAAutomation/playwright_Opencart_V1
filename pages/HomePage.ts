@@ -81,5 +81,7 @@ export class HomePage {
             console.log(`Error checking My Account link: ${error}`);
             return false;
         }
+       
+        
     }
 }
